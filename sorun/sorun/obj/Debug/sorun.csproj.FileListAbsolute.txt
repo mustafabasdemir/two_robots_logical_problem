@@ -1,0 +1,7 @@
+C:\Users\basde\source\repos\sorun\sorun\bin\Debug\sorun.exe.config
+C:\Users\basde\source\repos\sorun\sorun\bin\Debug\sorun.exe
+C:\Users\basde\source\repos\sorun\sorun\bin\Debug\sorun.pdb
+C:\Users\basde\source\repos\sorun\sorun\obj\Debug\sorun.csprojAssemblyReference.cache
+C:\Users\basde\source\repos\sorun\sorun\obj\Debug\sorun.csproj.CoreCompileInputs.cache
+C:\Users\basde\source\repos\sorun\sorun\obj\Debug\sorun.exe
+C:\Users\basde\source\repos\sorun\sorun\obj\Debug\sorun.pdb
